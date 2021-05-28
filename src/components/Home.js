@@ -9,7 +9,7 @@ function Home() {
         <div class="body-content">
            <div>
                 <img
-                    width={200}
+                    width={208}
                     height={200}
                     src={profilePic}
                     alt="profile pic" 

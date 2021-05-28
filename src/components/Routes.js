@@ -8,20 +8,20 @@ import Home from './Home';
 function Routes() {
 
     return (
-        <Switch>
-            <Route path="/About">
-                <About />
-            </Route>
-            <Route path="/Resume">
-                <Resume />
-            </Route>
-            <Route path="/Portfolio">
-                <Portfolio />
-            </Route>
-            <Route path="/">
-                <Home />
-            </Route>
-        </Switch>
+            <Switch>
+                <Route path="/About">
+                    <About />
+                </Route>
+                <Route path="/Resume">
+                    <Resume />
+                </Route>
+                <Route path="/Portfolio">
+                    <Portfolio />
+                </Route>
+                <Route path="/">
+                    <Home />
+                </Route>
+            </Switch>
     )
 
 }
