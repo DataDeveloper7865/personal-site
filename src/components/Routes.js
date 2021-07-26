@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch } from 'react-router';
-import Portfolio from './Portfolio';
-import About from './About';
+import Portfolio from './Portfolio/Portfolio.js';
+import About from './About/About.js';
 import Resume from './Resume';
 import Home from './Home';
 
