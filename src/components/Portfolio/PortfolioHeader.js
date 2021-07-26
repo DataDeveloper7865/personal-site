@@ -7,7 +7,7 @@ function PortfolioHeader() {
                     marginTop: '10px',
                     marginBottom: '40px'
             }}>
-                Projects 
+                Projects
         </h1>
     )
 }
